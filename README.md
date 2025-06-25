@@ -1,24 +1,24 @@
-# 猫咪贪吃蛇游戏
+# Cat Snake Game
 
-一个可爱的网页版贪吃蛇游戏，使用 HTML5 Canvas 开发。游戏中的蛇被设计成了一只可爱的小猫咪！
+A cute web-based Snake game developed with HTML5 Canvas. In this game, the snake is designed as an adorable cat!
 
-## 游戏特点
+## Features
 
-- 🐱 可爱的猫咪头像作为蛇头
-- 💗 粉色卡通风格界面
-- 🎮 支持键盘方向键和 WASD 控制
-- 📈 分数系统
-- 🎯 难度随分数提升
-- 💕 可爱的食物设计
+- 🐱 Cute cat head as the snake's head
+- 💗 Pink cartoon-style interface
+- 🎮 Support for both arrow keys and WASD controls
+- 📈 Scoring system
+- 🎯 Difficulty increases with score
+- 💕 Cute food design
 
-## 如何游玩
+## How to Play
 
-1. 点击"开始游戏"按钮开始
-2. 使用方向键或 WASD 控制猫咪移动
-3. 吃到食物可以得分
-4. 避免撞到墙壁或自己的身体
-5. 游戏结束后按空格键重新开始
+1. Click "Start Game" button to begin
+2. Use arrow keys or WASD to control the cat
+3. Eat food to score points
+4. Avoid hitting walls or your own body
+5. Press space to restart after game over
 
-## 在线游玩
+## Play Online
 
-访问 [游戏链接] 即可开始游玩！ 
+Visit [Game Link] to start playing! 

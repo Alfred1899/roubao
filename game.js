@@ -104,7 +104,7 @@ function draw() {
         }
     });
     
-    // 游戏结束显示
+    // Game over display
     if (gameOver) {
         ctx.fillStyle = 'rgba(0, 0, 0, 0.7)';
         ctx.fillRect(0, 0, canvas.width, canvas.height);
@@ -112,9 +112,9 @@ function draw() {
         ctx.fillStyle = '#ffffff';
         ctx.font = '40px Arial Rounded MT Bold';
         ctx.textAlign = 'center';
-        ctx.fillText('游戏结束!', canvas.width/2, canvas.height/2);
+        ctx.fillText('Game Over!', canvas.width/2, canvas.height/2);
         ctx.font = '20px Arial Rounded MT Bold';
-        ctx.fillText('按空格键重新开始', canvas.width/2, canvas.height/2 + 40);
+        ctx.fillText('Press Space to Restart', canvas.width/2, canvas.height/2 + 40);
     }
 }
 
